@@ -128,7 +128,8 @@ img {
 }
 
 #avatar {
-  max-height:300px;
+  max-height:350px;
+  width: 300px;
   border-radius: 300px;
   }
 
@@ -336,6 +337,7 @@ textarea {
   display: flex; 
   align-items: center; 
   justify-content: center; 
+  height: 40px;
 } 
 
 .icon {
@@ -373,7 +375,7 @@ textarea {
 .modalTitle {
 	font-size: 18px;
 	font-weight: 600;
-	margin-bottom: 25px;
+	margin-bottom: 20px;
 }
 
 button {

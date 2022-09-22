@@ -1,50 +1,51 @@
 [
     {
         "id": 1,
-        "name": "React Retreat",
-        "image": "https://github.com/kpehl/react-retreat/raw/main/docs/react-retreat.png",
-        "github": "https://github.com/kpehl/react-retreat",
-        "deploy": "https://react-retreat.herokuapp.com/",
-        "topics": "Reactjs, Creat-React-App service worker, GraphQl, Redux, JWT Authentication, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
+        "name": "Arthub",
+        "image": "https://user-images.githubusercontent.com/108953743/191630610-ccf30311-6b3c-46e3-9da5-a94ca85c6546.png",
+        "github": "https://github.com/jlamond37/arthub",
+        "deploy": "https://morning-bayou-79378.herokuapp.com/",
+        "topics": "A full stack web application using node, express, handlebars, MySQL, and Sequelize ORM"
     },
     {
         "id": 2,
-        "name": "Week In View",
-        "image": "https://github.com/kpehl/week-in-view/raw/main/media/week-in-view.png",
-        "github": "https://github.com/kpehl/week-in-view",
-        "deploy": "https://rocky-mountain-95430.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+        "name": "Watch Me Now",
+        "image": "https://user-images.githubusercontent.com/108953743/191631072-959eb8e7-8138-4095-87c4-00303149813c.png",
+        "github": "https://github.com/jlamond37/watchlist-maker",
+        "deploy": "https://jlamond37.github.io/watchlist-maker/",
+        "topics": "Bootstrap, server-side APIs, HTML, CSS, Javascript"
     },
     {
         "id": 3,
-        "name": "Tech Blog",
-        "image": "https://github.com/fondofhats/tech-blog/raw/main/tech-blog.png",
-        "github": "https://github.com/fondofhats/tech-blog",
-        "deploy": "https://foh-tech-blog.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+        "name": "Password Generator",
+        "image": "https://user-images.githubusercontent.com/108953743/191632556-f4388368-f884-4751-9619-2f77646223fa.png",
+        "github": "https://github.com/jlamond37/Random-password-gen",
+        "deploy": "https://jlamond37.github.io/Random-password-gen/",
+        "topics": "HTML, CSS, Javascript"
     },
     {
         "id": 4,
-        "name": "Weather Dashboard",
-        "image": "https://github.com/fondofhats/weather-dashboard/raw/master/weather-dashboard.png",
-        "github": "https://github.com/fondofhats/weather-dashboard",
-        "deploy": "https://fondofhats.github.io/weather-dashboard/",
-        "topics": "moment.js, javascript, jQuery, localStorage, API"
+        "name": "Work Day Scheduler",
+        "image": "https://user-images.githubusercontent.com/108953743/191633240-016cc74e-32de-4e9f-817b-e44038b2031d.png",
+        "github": "https://github.com/jlamond37/day-scheduler",
+        "deploy": "https://jlamond37.github.io/day-scheduler/",
+        "topics": "HTML, CSS, Javascript"
     },
     {
         "id": 5,
-        "name": "Budget Tracker",
-        "image": "https://github.com/fondofhats/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
-        "github": "https://github.com/fondofhats/pwa-budget-tracker",
-        "deploy": "https://pwa-budget-traker.herokuapp.com/",
-        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+        "name": "Regex Tutorial",
+        "image": "https://user-images.githubusercontent.com/108953743/191633968-ffef3362-91f4-4c41-8510-8fef6638dbca.png",
+        "github": "https://gist.github.com/jlamond37/557c0d83690a014980616ad5a417db90",
+        "deploy": "https://gist.github.com/jlamond37/557c0d83690a014980616ad5a417db90",
+        "topics": "Regex Tutorial"
     },
     {
         "id": 6,
-        "name": "Work Day Scheduler",
-        "image": "https://github.com/fondofhats/workday-scheduler/raw/master/workday-scheduler.png",
-        "github": "https://github.com/fondofhats/workday-scheduler",
-        "deploy": "https://fondofhats.github.io/workday-scheduler/",
-        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+        "name": "Password Generator",
+        "image": "https://user-images.githubusercontent.com/108953743/191632556-f4388368-f884-4751-9619-2f77646223fa.png",
+        "github": "https://github.com/jlamond37/Random-password-gen",
+        "deploy": "https://jlamond37.github.io/Random-password-gen/",
+        "topics": "HTML, CSS, Javascript"
     }
+    
 ]
