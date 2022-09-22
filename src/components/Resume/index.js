@@ -16,7 +16,7 @@ function Resume() {
           </ul>
 
           <p class="mt-5">
-            <a href="https://www.linkedin.com/in/juliana-lamond-049bb789/">
+            <a href="https://www.linkedin.com/in/juliet-lamond-049bb789/">
               <img
                 src="https://img.icons8.com/fluent/48/000000/linkedin.png"
                 alt="inkedIn"
@@ -25,7 +25,7 @@ function Resume() {
           </p>
 
           <a
-            href="https://github.com/fondofhats/react-portfolio/raw/main/docs/MichaelGiddingsResume.docx"
+            href="https://github.com/jlamond37/portfolio-react/files/9621334/JulietLamond.pdf"
             class="link"
           >
             Download Resume
