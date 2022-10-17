@@ -17,11 +17,11 @@
     },
     {
         "id": 3,
-        "name": "Password Generator",
-        "image": "https://user-images.githubusercontent.com/108953743/191632556-f4388368-f884-4751-9619-2f77646223fa.png",
-        "github": "https://github.com/jlamond37/Random-password-gen",
-        "deploy": "https://jlamond37.github.io/Random-password-gen/",
-        "topics": "HTML, CSS, Javascript"
+        "name": "Sweater Season",
+        "image": "https://user-images.githubusercontent.com/108953743/196217563-834c4f00-5fd0-4feb-a7a2-a3e0faa05591.png",
+        "github": "https://github.com/jlamond37/sweater_season",
+        "deploy": "https://quiet-shore-61429.herokuapp.com/",
+        "topics": "React, MongoDB, GraphQL, Stripe"
     },
     {
         "id": 4,
